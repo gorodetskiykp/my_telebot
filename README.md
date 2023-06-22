@@ -3,5 +3,5 @@
 
 https://t.me/BotFather
 
-pip install pyTelegramBotAPI
+pip install pyTelegramBotAPI\
 import telebot
